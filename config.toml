@@ -1,0 +1,7 @@
+languageCode = "en-us"
+title = "読書ログ"
+theme = "simple"
+description = "こつこつ読んだ本を書き留めていくブログ"
+baseURL = "https://book.choihack.com/"
+copyright = "© - 2021 - 読書ログ"
+paginate = 5
