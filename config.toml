@@ -4,3 +4,19 @@ description = "こつこつ読んだ本を書き留めていくブログ"
 baseURL = "https://book.choihack.com/"
 copyright = "© - 2021 - 読書ログ"
 languageCode = "ja"
+
+[Params]
+  amazonTrackingId = 'book-choihack-22'
+
+[[menu.main]]
+  name = "TOP"
+  weight = -110
+  url = "/"
+
+[[menu.main]]
+  name = "検索"
+  weight = -80
+  url = "/search"
+
+[markup.goldmark.parser.attribute]
+  block = true
