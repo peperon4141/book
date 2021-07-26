@@ -5,8 +5,9 @@ baseURL = "https://book.choihack.com/"
 copyright = "© - 2021 - 読書ログ"
 languageCode = "ja"
 
+googleAnalytics = "G-PEDHNT576S"
+
 [Params]
-  googleAnalytics = "G-PEDHNT576S"
   amazonTrackingId = 'book-choihack-22'
 
 [[menu.main]]
