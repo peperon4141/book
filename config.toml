@@ -6,6 +6,7 @@ copyright = "© - 2021 - 読書ログ"
 languageCode = "ja"
 
 [Params]
+  googleAnalytics = "G-PEDHNT576S"
   amazonTrackingId = 'book-choihack-22'
 
 [[menu.main]]
