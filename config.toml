@@ -8,7 +8,7 @@ languageCode = "ja"
 googleAnalytics = "G-PEDHNT576S"
 
 [Params]
-  amazonTrackingId = 'book-choihack-22'
+  amazonTrackingId = 'book-choihack09-22'
 
 [[menu.main]]
   name = "TOP"
