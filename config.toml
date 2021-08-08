@@ -16,10 +16,10 @@ googleAnalytics = "G-PEDHNT576S"
   weight = -110
   url = "/"
 
-[[menu.main]]
-  name = "おすすめアイテム"
-  weight = -100
-  url = "/post/item/"
+# [[menu.main]]
+#   name = "おすすめアイテム"
+#   weight = -100
+#   url = "/post/item/"
 
 [[menu.main]]
   name = "読書ログ"
