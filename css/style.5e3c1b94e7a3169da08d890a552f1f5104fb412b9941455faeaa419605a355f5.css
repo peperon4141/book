@@ -620,4 +620,5 @@ main > * {
 
 .ads {
   margin-top: var(--gap);
-  text-align: center; }
+  text-align: center;
+  overflow-x: hidden; }
