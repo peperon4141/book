@@ -8,6 +8,7 @@ languageCode = "ja"
 googleAnalytics = "G-PEDHNT576S"
 
 [Params]
+  googleAdsense = 'ca-pub-7379986362181342'
   amazonTrackingId = 'book-choihack09-22'
 
 [[menu.main]]
@@ -16,8 +17,23 @@ googleAnalytics = "G-PEDHNT576S"
   url = "/"
 
 [[menu.main]]
+  name = "おすすめアイテム"
+  weight = -100
+  url = "/post/item/"
+
+[[menu.main]]
+  name = "読書ログ"
+  weight = -100
+  url = "/post/book/"
+
+[[menu.main]]
+  name = "映画ログ"
+  weight = -90
+  url = "/post/movie/"
+
+[[menu.main]]
   name = "検索"
-  weight = -80
+  weight = -10
   url = "/search"
 
 [markup.goldmark.parser.attribute]
