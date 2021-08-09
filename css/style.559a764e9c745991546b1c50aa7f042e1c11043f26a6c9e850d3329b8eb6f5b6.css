@@ -572,6 +572,8 @@ main > * {
       padding: calc(var(--gap) / 2);
       max-height: 200px;
       max-width: 200px; }
+    .amazon a p {
+      padding: 12px; }
 
 .main .amazon a {
   border: 2px solid var(--border);
