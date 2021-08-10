@@ -1,8 +1,8 @@
-title = "読書ログ"
+title = "こつこつロギング"
 theme = "simple"
-description = "こつこつ読んだ本を書き留めていくブログ"
-baseURL = "https://book.choihack.com/"
-copyright = "© - 2021 - 読書ログ"
+description = "こつこつ読んだ本や映画、アニメの評価・感想を書き留めていくブログ"
+baseURL = "https://review.choihack.com/"
+copyright = "© - 2021 - こつこつロギング"
 languageCode = "ja"
 
 googleAnalytics = "G-PEDHNT576S"
