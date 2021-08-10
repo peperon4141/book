@@ -567,13 +567,15 @@ main > * {
   border-radius: 2px; }
   .amazon a {
     display: flex;
-    box-shadow: none; }
+    box-shadow: none;
+    padding: calc(var(--gap) / 2); }
     .amazon a img {
-      padding: calc(var(--gap) / 2);
       max-height: 200px;
       max-width: 200px; }
-    .amazon a p {
-      padding: 12px; }
+    .amazon a section {
+      padding: calc(var(--gap) / 2); }
+      .amazon a section p {
+        margin: 0; }
 
 .main .amazon a {
   border: 2px solid var(--border);
