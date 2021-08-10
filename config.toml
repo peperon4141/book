@@ -11,8 +11,8 @@ googleAnalytics = "G-PEDHNT576S"
   googleAdsense = 'ca-pub-7379986362181342'
   amazonTrackingId = 'book-choihack09-22'
 
-  adsFooterTitle = '映画見放題！圧倒的おすすめ！' 
-  adsFooter = '<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=primevideochannel&banner=1M3EWHAVWQ12TKT8SD02&f=ifr&linkID=556db6f967df745835bcb09571032653&t=peperon41410c-22&tracking_id=peperon41410c-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>'
+  # adsFooterTitle = '映画見放題！圧倒的おすすめ！' 
+  # adsFooter = '<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=primevideochannel&banner=1M3EWHAVWQ12TKT8SD02&f=ifr&linkID=556db6f967df745835bcb09571032653&t=peperon41410c-22&tracking_id=peperon41410c-22" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>'
 
 [[menu.main]]
   name = "TOP"
@@ -33,6 +33,11 @@ googleAnalytics = "G-PEDHNT576S"
   name = "映画ログ"
   weight = -90
   url = "/post/movie/"
+
+[[menu.main]]
+  name = "アニメログ"
+  weight = -80
+  url = "/post/anime/"
 
 [[menu.main]]
   name = "検索"
