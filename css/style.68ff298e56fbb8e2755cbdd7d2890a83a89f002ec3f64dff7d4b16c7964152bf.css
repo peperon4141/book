@@ -214,9 +214,15 @@ main > * {
   padding: var(--gap);
   background: var(--entry);
   border-radius: var(--radius);
-  transition: transform 0.1s; }
+  transition: transform 0.1s;
+  display: flex; }
   .article-card:active {
     transform: scale(0.96); }
+  .article-card .article-img {
+    flex: 1 0 120px; }
+  .article-card main {
+    flex: 1 0 200px;
+    padding: calc(var(--gap) / 2); }
   .article-card img {
     margin: 0 auto; }
   .article-card .article-card-header h2 {
@@ -312,7 +318,7 @@ main > * {
   box-shadow: 0 -1px 0 var(--primary) inset; }
 
 .post-content strong {
-  box-shadow: 0 -24px 0 -12px rgba(255, 0, 255, 0.2) inset; }
+  box-shadow: 0 -24px 0 -16px rgba(255, 0, 255, 0.2) inset; }
 
 .post-content del {
   text-decoration: none;
