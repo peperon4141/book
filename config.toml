@@ -5,7 +5,7 @@ baseURL = "https://review.choihack.com/"
 copyright = "© - 2021 - こつこつロギング"
 languageCode = "ja"
 
-googleAnalytics = "G-PEDHNT576S"
+googleAnalytics = "G-7FFVELLY1H"
 
 [Params]
   googleAdsense = 'ca-pub-7379986362181342'
