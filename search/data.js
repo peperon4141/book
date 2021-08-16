@@ -1,14 +1,20 @@
 var data = [
 {
+url: "https://review.choihack.com/post/movie/%E3%82%B7%E3%83%B3%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3%E5%8A%87%E5%A0%B4%E7%89%88/",
+title: "シン・エヴァンゲリオン劇場版",
+date: "2021-08-17T08:05:48+09:00",
+body: "シン・エヴァンゲリオン劇場版 [評価 var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '斬新さ','映像','難易度' ], datasets: [{ data: [ 9,9,9 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } シン・エヴァンゲリオン劇場版 新たな劇場版シリーズの第4部であり、完結編。ミサトの率いる反ネルフ組織ヴィレは、コア化で赤く染まったパリ旧市街にいた。旗艦AAAヴンダーから選抜隊が降下し、残された封印柱に取りつく。復元オペの作業可能時間はわずか720秒。決死の作戦遂行中、ネルフのEVAが大群で接近し、マリの改8号機が迎撃を開始した。一方、シンジ、アスカ、アヤナミレイ（仮称）の3人は日本の大地をさまよい歩いていた……。 基本情報 監督: 庵野秀明, 鶴巻和哉, 中山勝一, 前田真宏 出演: 緒方恵美, 林原めぐみ, 宮村優子 あらすじ 新たな劇場版シリーズの第4部であり、完結編。 ミサトの率いる反ネルフ組織ヴィレは、コア化で赤く染まったパリ旧市街にいた。 旗艦AAAヴンダーから選抜隊が降下し、残された封印柱に取りつく。 復元オペの作業可能時間はわずか720秒。 決死の作戦遂行中、ネルフのEVAが大群で接近し、マリの改8号機が迎撃を開始した。 一方、シンジ、アスカ、アヤナミレイ（仮称）の3人は日本の大地をさまよい歩いていた……。 感想 はじめに。 私は、エヴァのファンではなく、過去の映画を観ずにシン・エヴァを観た不届き者です。 アニメ版は観ていたんですが、それにしても話が難しいです。 ですが、それは考察する余韻を楽しめるので、エヴァに関してはこれでいいんじゃないのかと思います。 映像やキャラクターデザインは最高です！ 映画の冒頭から登場する8号機の、360度回転するアーム！ それを操作するのはトラックのハンドルのような円盤系の３Dの操作ホイール！ めちゃくちゃかっこいいですし、斬新！ .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } ROBOT魂 エヴァンゲリヲン [SIDE EVA] エヴァンゲリオン8号機β 臨時戦闘形態 約170mm ABS\u0026amp;PVC製 塗装済み可動フィギュア 商品紹介ROBOT魂 エヴァンゲリオン8号機β 臨時戦闘形態、戦闘開始。『シン・エヴァンゲリオン劇場版』にて登場予定の8号機β 臨時戦闘形態がROBOT魂に初登場。造形、彩色のこだわりのみならず、上半身のレール機能など独特なギミックも再現。【セット内容】 本体、ガトリング砲×2、弾帯左右×2、収納用弾帯左右×2、専用台座一式安全警告該当なし そして、新兵器の機体「44a」「44b」「4444c」、特に44bがたまらんです。 #シン・エヴァンゲリオン劇場版 #エヴァ #エヴァンゲリオン #44B pic.twitter.com/s8vz4AoOId \u0026mdash; (株)カラー 2号機 (@khara_inc2) July 23, 2019 これから、シン・エヴァンゲリオン劇場版を観る方にはドキュメンタリーを先に観ておくのがオススメです。 より庵野秀明さんの努力や制作の舞台裏を想像しながら観れて楽しいです。 特に、第三村の舞台を作ってくシーンは庵野秀明さんの熱意（変態性？）が伝わってきます。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } さようなら全てのエヴァンゲリオン ～庵野秀明の1214日～ アニメ界の巨匠・宮崎駿をして「庵野は血を流しながら映画を作る」と言わしめる「エヴァンゲリオン」シリーズ総監督・庵野秀明。その庵野監督の制作現場に４年にわたって独占密着した「プロフェッショナル仕事の流儀」に、新たな映像やインタビューを加え再編集した１００分の拡大版。最新作『シン・エヴァンゲリオン劇場版』はいかにして作られたのか？ 希代のクリエーターの実像に迫るスペシャル。©NHK]"
+},
+{
 url: "https://review.choihack.com/post/",
 title: "",
-date: "2021-08-10T08:14:26+09:00",
+date: "2021-08-17T08:05:48+09:00",
 body: "[]"
 },
 {
 url: "https://review.choihack.com/post/movie/",
 title: "",
-date: "2021-08-10T08:14:26+09:00",
+date: "2021-08-17T08:05:48+09:00",
 body: "[]"
 },
 {
