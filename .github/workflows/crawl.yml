@@ -13,6 +13,10 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12.x
+      - name: Install modules
+        run: |
+          yarn install
+          yarn prettier --write ${FILE_PATTERN}
       - name: Run Crawler
         run: |
           mkdir data
