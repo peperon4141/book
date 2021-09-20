@@ -1,8 +1,8 @@
 ---
-title: "Creep"
-date: 2021-08-17T09:01:44+09:00
-linkTitle: "Creep"
-description: "Creep"
+title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
+date: "{{ .Date }}"
+linkTitle: "{{ replace .TranslationBaseName '-' ' ' | title }}"
+description: "{{ replace .TranslationBaseName '-' ' ' | title }}"
 asin: B0921XBWLT
 draft: true
 ---
