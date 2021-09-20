@@ -1,8 +1,8 @@
-title = "こつこつロギング"
+title = "こつこつレビュー"
 theme = "simple"
 description = "こつこつ読んだ本や映画、アニメの評価・感想を書き留めていくブログ"
 baseURL = "https://review.choihack.com/"
-copyright = "© - 2021 - こつこつロギング"
+copyright = "© - 2021 - こつこつレビュー"
 languageCode = "ja"
 
 googleAnalytics = "G-7FFVELLY1H"
@@ -38,11 +38,6 @@ googleAnalytics = "G-7FFVELLY1H"
   name = "アニメログ"
   weight = -80
   url = "/post/anime/"
-
-[[menu.main]]
-  name = "検索"
-  weight = -10
-  url = "/search"
 
 [markup.goldmark.parser.attribute]
   block = true
