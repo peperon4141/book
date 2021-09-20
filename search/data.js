@@ -1,33 +1,51 @@
 var data = [
 {
+url: "https://review.choihack.com/post/book/%E5%B9%B8%E7%A6%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E3%81%A8%E3%81%AE%E6%B1%BA%E5%88%A5/",
+title: "幸福の科学との決別",
+date: "2021-09-20T22:27:00+09:00",
+body: "幸福の科学との決別 [var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '意外性','エビデンス','面白さ' ], datasets: [{ data: [ 5,6,6 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 幸福の科学との訣別 私の父は大川隆法だった (文春e-book) はじめに 私の周りには幸福の科学信者がいなかった。 なので、教義やどんな風習があるのかを知らなかった。 でも街なかで日々教会を見かけていた。 幸福の科学の教義や実体はなんだろう？ そんな興味心を満たすために読んでみた。 感想 幸福の科学とは まず面白かったのが、あくまで概要レベルだが幸福の科学の考え方知れた。 教祖が今なお生き続けている宗教の裏話を聞けるのは貴重だと思う。 この本はその興味心を十分満たしてくれると思う。 私が本を読んで理解した幸福の科学の考え方はこうだ。 大川隆法は教祖にして至高神エル・カンターレという存在である。 過去世（かこぜ）という前世が存在し、人物・悪魔・宇宙人・妖怪など様々なパターンがある。 過去世の霊の格で現世の格が決定される。 過去世を決定するのは大川隆法のみで、過去世は変わることもある。 人の例をイタコのように降ろす「霊言（れいげん）」ということができる。 仏陀、イエス・キリストの父、アッラーは大川隆法である。 要は、大川隆法が最高で唯一の存在で、その人の一声で全てが決定される世界観とういことだ。 どの宗教でもぶっ飛んだ神話は必要なので、よくある話だと思った。 違和感は 教祖が人の形で神として生きる矛盾 だ。 人の形で神を演じ続けるには無理がある。 宗教は、教祖の死で完成されるのかも知れない。 資金 当然資金源のメインは お布施 ということになる。 本を出版し、それを1人に何冊も買わせるということも行われているようだ。 それに お祓い的なもの も、値段はピンキリで存在する。 高額なものは1億程度になるとのこと。 ただ、幸福実現党を推し進めるせいで、かなり財源が苦しくなっているようだ。 さいごに 私が思い描いていた宗教の裏側がそのまま過ぎて、意外性は案外なかった。 「やっぱり」 という印象が強い。 終始著者の視点で話が書かれている。 ここに、幹部職員との対談なども入って入ればもっと面白いと感じたかも知れない。 だが、幸福の科学の概要が知れることは社会勉強として面白かった。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 幸福の科学との訣別 私の父は大川隆法だった (文春e-book)]"
+},
+{
+url: "https://review.choihack.com/post/",
+title: "",
+date: "2021-09-20T22:27:00+09:00",
+body: "[]"
+},
+{
+url: "https://review.choihack.com/post/book/",
+title: "",
+date: "2021-09-20T22:27:00+09:00",
+body: "[]"
+},
+{
+url: "https://review.choihack.com/post/book/%E9%A0%AD%E3%81%8C%E3%81%84%E3%81%84%E4%BA%BA%E3%81%AE%E8%AA%AD%E6%9B%B8%E8%A1%93/",
+title: "頭がいい人の読書術",
+date: "2021-08-19T09:01:44+09:00",
+body: "頭がいい人の読書術 [おすすめ度 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 頭がいい人の読書術 議員秘書、コンサルタント、会社役員など、さまざまな仕事を経験してきた、超人気コラムニストが「本・新聞・ネット記事の賢い読み方」を教えます！誰でもできる読書スキルが満載！ 読書を通じて、仕事、人間関係、ライフスタイル、すべてが好転します！老若男女あらゆる世代に使えて、一生役立つスキル。100年時代を楽しみ、有意義に過ごすために、本書を通じて、読書生活を始めましょう。 var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '意外性','面白さ','エビデンス' ], datasets: [{ data: [ 5,5,2 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); はじめに 著者は人気コラムニストで、大量の本を読んでコラムを書き続けています。 その方が何十年と続けている読書法について記載されています。 著者はどんな本でも1冊10分で読めると書いていますが、この部分は嘘です。 内容の理解が困難な専門書などは到底10分で読めるとは言えないでしょう。 ただ、一部盛っている部分はあるものの、自分の読み方に取り入れられる部分はあるでしょう。 それらについてまとめたいと思います。 内容まとめ そもそも読むべき箇所は限られている 本のクオリティが低い場合、読むに値しない 本の初めと最後にキラーコンテンツがあって、それだけを読めば十分な場合もある アウトプットありきで本を読む 本の内容を理解するための最も良い方法はアウトプット。 どんな方法でも、アウトプットありきで本を読もう 読書会 Twitter ブログ 3分の1読み 文章の上３分の１でだいたいの内容は把握できる。 そうすると単純に３分の１の時間で本を読めるようになる。 根拠としては、ノッティンガム大学の「タイポグリセリア現象」の研究で、文字の位置関係が適切でなくても人間は補正して読めると言う結果に基づいている。 しかも、通常目を上下運動させて読むところが、横方向に流れていくように読むことになる。 読書がスムーズになる。 目次を読む 目次を読んで全体像を掴んでから読書をする。 目次は本にとっての地図。 まずは地図で俯瞰してから読み始める。 読書する目的を明確にする 目的がなく読んでいるとどこを重視して読むべきか定まらない。 目的がないなら、まずはアウトプットを目的にする。 集中して本を読む 集中するために、集中できる朝や夜の１時間を決めて読書する しっかり睡眠を取る 読書前のルーティーンを決めておく お気に入りの場所で読む 制限時間を設ける さいごに ３分の１読みの部分は私にとって目新しかったです。 ３分の１だからといってその読み方を強制するのではなく、読みたければ柔軟に１行全部読めばいいだけです。 頭を固くせずに、上手く使えば理解度を維持して読書するピードを上げれると思いました。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 頭がいい人の読書術 議員秘書、コンサルタント、会社役員など、さまざまな仕事を経験してきた、超人気コラムニストが「本・新聞・ネット記事の賢い読み方」を教えます！誰でもできる読書スキルが満載！ 読書を通じて、仕事、人間関係、ライフスタイル、すべてが好転します！老若男女あらゆる世代に使えて、一生役立つスキル。100年時代を楽しみ、有意義に過ごすために、本書を通じて、読書生活を始めましょう。]"
+},
+{
+url: "https://review.choihack.com/post/anime/",
+title: "",
+date: "2021-08-19T08:54:14+09:00",
+body: "[]"
+},
+{
+url: "https://review.choihack.com/post/anime/%E3%83%A1%E3%82%A4%E3%83%89%E3%82%A4%E3%83%B3%E3%82%A2%E3%83%93%E3%82%B9/",
+title: "メイドインアビス",
+date: "2021-08-19T08:54:14+09:00",
+body: "メイドインアビス [評価 var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '意外性','テンポ','面白さ' ], datasets: [{ data: [ 9,6,8 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } メイドインアビス 隅々まで探索されつくした世界に、唯一残された秘境の大穴『アビス』。どこまで続くとも知れない深く巨大なその縦穴には、奇妙奇怪な生物たちが生息し、今の人類では作りえない貴重な遺物が眠っている。「アビス」の不可思議に満ちた姿は人々を魅了し、冒険へと駆り立てた。そうして幾度も大穴に挑戦する冒険者たちは、次第に『探窟家』呼ばれるようになっていった。アビスの縁に築かれた街『オース』に暮らす孤児のリコは、いつか母のような偉大な探窟家になり、アビスの謎を解き明かすことを夢見ていた。 そんなある日、リコはアビスを探窟中に、少年の姿をしたロボットを拾い…?(C)2017 つくしあきひと・竹書房/メイドインアビス製作委員会 基本情報 出演: 富田美憂, 伊瀬茉莉也, 井澤詩織 あらすじ 隅々まで探索されつくした世界に、唯一残された秘境の大穴『アビス』。 どこまで続くとも知れない深く巨大なその縦穴には、奇妙奇怪な生物たちが生息し、今の人類では作りえない貴重な遺物が眠っている。 「アビス」の不可思議に満ちた姿は人々を魅了し、冒険へと駆り立てた。 そうして幾度も大穴に挑戦する冒険者たちは、次第に『探窟家』呼ばれるようになっていった。 アビスの縁に築かれた街『オース』に暮らす孤児のリコは、いつか母のような偉大な探窟家になり、アビスの謎を解き明かすことを夢見ていた。 そんなある日、リコはアビスを探窟中に、少年の姿をしたロボットを拾い…? 感想 絵が可愛いので、油断してみているとびっくりします。 とんでもない展開と、大穴『アビス』の謎が面白いです。 たまたま観たら止まらなくて一気観してしまいました。 まだシーズン１しか出ておらず、シーズン２の制作も決定しています。 漫画を読みましたが、漫画よりもアニメの出来の方が観やすいという印象です。 シーズン２でもクオリティーを落とさず作っていただきたいです。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } メイドインアビス 隅々まで探索されつくした世界に、唯一残された秘境の大穴『アビス』。どこまで続くとも知れない深く巨大なその縦穴には、奇妙奇怪な生物たちが生息し、今の人類では作りえない貴重な遺物が眠っている。「アビス」の不可思議に満ちた姿は人々を魅了し、冒険へと駆り立てた。そうして幾度も大穴に挑戦する冒険者たちは、次第に『探窟家』呼ばれるようになっていった。アビスの縁に築かれた街『オース』に暮らす孤児のリコは、いつか母のような偉大な探窟家になり、アビスの謎を解き明かすことを夢見ていた。 そんなある日、リコはアビスを探窟中に、少年の姿をしたロボットを拾い…?(C)2017 つくしあきひと・竹書房/メイドインアビス製作委員会]"
+},
+{
 url: "https://review.choihack.com/post/movie/creep/",
 title: "Creep",
 date: "2021-08-17T09:01:44+09:00",
 body: "Creep [評価 var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '怖さ','テンポ','意外性' ], datasets: [{ data: [ 6,8,6 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } Creep 余命数ヶ月の男性が、残していく子供のためにありのままの自分の姿を撮影してほしいという。。。その仕事を引き受けた男性は、一緒に一日を過ごすが徐々に男性の異常性に気づいていく あらすじ 余命数ヶ月の男性（ジョセフ）が、残していく子供のためにありのままの自分の姿を撮影してほしいという。。。 その仕事を引き受けた男性（アーロン）は、一緒に一日を過ごすが徐々に男性の異常性に気づいていく 感想 82分と比較的本編が短くすぐに観れるヒトコワタイプの映画 この映画、登場人物は2人で、そのうち一人（アーロン）が監督です。 ほとんどアーロン視点で撮影されており、アーロンの気持ちになってジョセフの異常性を楽しめます。 普段の生活でも、思わぬタイミングで人の新しい一面を発見することがありますが、 この映画はジョセフの異常性が色んな演出で少しずつ現れてきます。 アーロンも「こういう人いるよなっ」っていう優男で、ジョセフに付き合ってやるところの感覚が上手く伝わってきます。 ジョセフの不気味な行動がちょっとずつ積み重なり、最後は爆発して。。。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } Creep 余命数ヶ月の男性が、残していく子供のためにありのままの自分の姿を撮影してほしいという。。。その仕事を引き受けた男性は、一緒に一日を過ごすが徐々に男性の異常性に気づいていく]"
 },
 {
-url: "https://review.choihack.com/post/",
-title: "",
-date: "2021-08-17T09:01:44+09:00",
-body: "[]"
-},
-{
 url: "https://review.choihack.com/post/movie/",
 title: "",
 date: "2021-08-17T09:01:44+09:00",
 body: "[]"
-},
-{
-url: "https://review.choihack.com/post/book/",
-title: "",
-date: "2021-08-17T09:01:44+09:00",
-body: "[]"
-},
-{
-url: "https://review.choihack.com/post/book/%E9%A0%AD%E3%81%8C%E3%81%84%E3%81%84%E4%BA%BA%E3%81%AE%E8%AA%AD%E6%9B%B8%E8%A1%93/",
-title: "頭がいい人の読書術",
-date: "2021-08-17T09:01:44+09:00",
-body: "頭がいい人の読書術 [おすすめ度 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 頭がいい人の読書術 議員秘書、コンサルタント、会社役員など、さまざまな仕事を経験してきた、超人気コラムニストが「本・新聞・ネット記事の賢い読み方」を教えます！誰でもできる読書スキルが満載！ 読書を通じて、仕事、人間関係、ライフスタイル、すべてが好転します！老若男女あらゆる世代に使えて、一生役立つスキル。100年時代を楽しみ、有意義に過ごすために、本書を通じて、読書生活を始めましょう。 var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '意外性','面白さ','エビデンス' ], datasets: [{ data: [ 5,5,2 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); はじめに 著者は人気コラムニストで、大量の本を読んでコラムを書き続けています。 その方が何十年と続けている読書法について記載されています。 著者はどんな本でも1冊10分で読めると書いていますが、この部分は嘘です。 内容の理解が困難な専門書などは到底10分で読めるとは言えないでしょう。 ただ、一部盛っている部分はあるものの、自分の読み方に取り入れられる部分はあるでしょう。 それらについてまとめたいと思います。 内容まとめ そもそも読むべき箇所は限られている 本のクオリティが低い場合、読むに値しない 本の初めと最後にキラーコンテンツがあって、それだけを読めば十分な場合もある アウトプットありきで本を読む 本の内容を理解するための最も良い方法はアウトプット。 どんな方法でも、アウトプットありきで本を読もう 読書会 Twitter ブログ 3分の1読み 文章の上３分の１でだいたいの内容は把握できる。 そうすると単純に３分の１の時間で本を読めるようになる。 根拠としては、ノッティンガム大学の「タイポグリセリア現象」の研究で、文字の位置関係が適切でなくても人間は補正して読めると言う結果に基づいている。 しかも、通常目を上下運動させて読むところが、横方向に流れていくように読むことになる。 読書がスムーズになる。 目次を読む 目次を読んで全体像を掴んでから読書をする。 目次は本にとっての地図。 まずは地図で俯瞰してから読み始める。 読書する目的を明確にする 目的がなく読んでいるとどこを重視して読むべきか定まらない。 目的がないなら、まずはアウトプットを目的にする。 集中して本を読む 集中するために、集中できる朝や夜の１時間を決めて読書する しっかり睡眠を取る 読書前のルーティーンを決めておく お気に入りの場所で読む 制限時間を設ける さいごに ３分の１読みの部分は私にとって目新しかったです。 ３分の１だからといってその読み方を強制するのではなく、読みたければ柔軟に１行全部読めばいいだけです。 頭を固くせずに、上手く使えば理解度を維持して読書するピードを上げれると思いました。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 頭がいい人の読書術 議員秘書、コンサルタント、会社役員など、さまざまな仕事を経験してきた、超人気コラムニストが「本・新聞・ネット記事の賢い読み方」を教えます！誰でもできる読書スキルが満載！ 読書を通じて、仕事、人間関係、ライフスタイル、すべてが好転します！老若男女あらゆる世代に使えて、一生役立つスキル。100年時代を楽しみ、有意義に過ごすために、本書を通じて、読書生活を始めましょう。]"
 },
 {
 url: "https://review.choihack.com/post/movie/%E3%82%B7%E3%83%B3%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B2%E3%83%AA%E3%82%AA%E3%83%B3%E5%8A%87%E5%A0%B4%E7%89%88/",
@@ -40,12 +58,6 @@ url: "https://review.choihack.com/post/movie/%E7%8A%AC%E9%B3%B4%E6%9D%91/",
 title: "犬鳴村",
 date: "2021-08-10T08:14:26+09:00",
 body: "犬鳴村 [評価 var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '演出','テンポ','こわさ' ], datasets: [{ data: [ 2,7,5 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 犬鳴村 SNSや動画サイト上で恐怖の声が絶えない九州屈指の心霊スポット・旧犬鳴トンネル。その近くには日本政府の統治が及ばない集落“犬鳴村”があり、そこに立ち入った者は決して戻れないという都市伝説がある。果たしてこれは単なる都市伝説なのか、真実なのか…。（C）2020 「犬鳴村」製作委員会 基本情報 監督 清水崇 出演 三吉彩花, 坂東龍汰, 古川毅 あらすじ SNSや動画サイト上で恐怖の声が絶えない九州屈指の心霊スポット・旧犬鳴トンネル。 その近くには日本政府の統治が及ばない集落“犬鳴村”があり、そこに立ち入った者は決して戻れないという都市伝説がある。 果たしてこれは単なる都市伝説なのか、真実なのか…。 感想 パッケージ観ると、上手くできてて見たくなりませんか？ しかも恐怖回避バージョンという謎のバージョンが存在します。 これは犬鳴村をそのまま使って、怖くない仕様の可愛い編集を追加しまくった作品です。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 犬鳴村 恐怖回避ばーじょん 臨床心理士の森田奏の周りで突如、奇妙な出来事が起こり始める。「わんこがねぇやに ふたしちゃろ～♪」奇妙なわらべ歌を口ずさみ、おかしくなった女性、行方不明になった兄弟、そして繰り返される不可解な変死…。それらの共通点は心霊スポット【犬鳴トンネル】だった。「トンネルを抜けた先に村があって、そこで××を見た…」突然死した女性が死の直前に残したこの言葉は、一体どんな意味なのか？全ての謎を突き止めるため、奏は犬鳴トンネルに向かう。しかしその先には、決して踏み込んではいけない、驚愕の真相があった…！※全編に、恐怖を回避する演出の数々が施されています。（C）2020 「犬鳴村」製作委員会 結構力が入ってるなって思って「犬鳴村」を観てみました。 そうすると、残念なシーンが多々あります。 理由はやりすぎ演出です。 ジャパニーズ・ホラーって、直接的ではなく雰囲気で怖がらせるような感じですよね？ 「犬鳴村」は、直接演出が多すぎてちょっと興醒めします。 幽霊がかなりガッツリ目で出演します。 中には人間から触れる幽霊も出てきます。 後、もう一つ謎のタイムリープシーン。 過去に起こった悲惨な事件を現在と過去とを重ね合わせて説明しています。 ホラー映画で、これをやられるとどこからが事実なのかわからなくて悪い意味で混乱します。 この映画を観るなら、斬新な「犬鳴村 恐怖回避ばーじょん」の方がおすすめかも知れません。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 犬鳴村 SNSや動画サイト上で恐怖の声が絶えない九州屈指の心霊スポット・旧犬鳴トンネル。その近くには日本政府の統治が及ばない集落“犬鳴村”があり、そこに立ち入った者は決して戻れないという都市伝説がある。果たしてこれは単なる都市伝説なのか、真実なのか…。（C）2020 「犬鳴村」製作委員会]"
-},
-{
-url: "https://review.choihack.com/post/anime/",
-title: "",
-date: "2021-08-09T21:13:39+09:00",
-body: "[]"
 },
 {
 url: "https://review.choihack.com/post/anime/%E6%9D%B1%E4%BA%AC%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%BA/",
