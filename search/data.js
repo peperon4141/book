@@ -1,21 +1,27 @@
 var data = [
 {
-url: "https://review.choihack.com/post/book/%E5%B9%B8%E7%A6%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E3%81%A8%E3%81%AE%E6%B1%BA%E5%88%A5/",
-title: "幸福の科学との決別",
-date: "2021-09-20T22:27:00+09:00",
-body: "幸福の科学との決別 [var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '意外性','エビデンス','面白さ' ], datasets: [{ data: [ 5,6,6 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 幸福の科学との訣別 私の父は大川隆法だった (文春e-book) はじめに 私の周りには幸福の科学信者がいなかった。 なので、教義やどんな風習があるのかを知らなかった。 でも街なかで日々教会を見かけていた。 幸福の科学の教義や実体はなんだろう？ そんな興味心を満たすために読んでみた。 感想 幸福の科学とは まず面白かったのが、あくまで概要レベルだが幸福の科学の考え方知れた。 教祖が今なお生き続けている宗教の裏話を聞けるのは貴重だと思う。 この本はその興味心を十分満たしてくれると思う。 私が本を読んで理解した幸福の科学の考え方はこうだ。 大川隆法は教祖にして至高神エル・カンターレという存在である。 過去世（かこぜ）という前世が存在し、人物・悪魔・宇宙人・妖怪など様々なパターンがある。 過去世の霊の格で現世の格が決定される。 過去世を決定するのは大川隆法のみで、過去世は変わることもある。 人の例をイタコのように降ろす「霊言（れいげん）」ということができる。 仏陀、イエス・キリストの父、アッラーは大川隆法である。 要は、大川隆法が最高で唯一の存在で、その人の一声で全てが決定される世界観とういことだ。 どの宗教でもぶっ飛んだ神話は必要なので、よくある話だと思った。 違和感は 教祖が人の形で神として生きる矛盾 だ。 人の形で神を演じ続けるには無理がある。 宗教は、教祖の死で完成されるのかも知れない。 資金 当然資金源のメインは お布施 ということになる。 本を出版し、それを1人に何冊も買わせるということも行われているようだ。 それに お祓い的なもの も、値段はピンキリで存在する。 高額なものは1億程度になるとのこと。 ただ、幸福実現党を推し進めるせいで、かなり財源が苦しくなっているようだ。 さいごに 私が思い描いていた宗教の裏側がそのまま過ぎて、意外性は案外なかった。 「やっぱり」 という印象が強い。 終始著者の視点で話が書かれている。 ここに、幹部職員との対談なども入って入ればもっと面白いと感じたかも知れない。 だが、幸福の科学の概要が知れることは社会勉強として面白かった。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 幸福の科学との訣別 私の父は大川隆法だった (文春e-book)]"
+url: "https://review.choihack.com/post/book/%E5%A4%A9%E6%89%8D%E3%82%92%E6%AE%BA%E3%81%99%E5%87%A1%E4%BA%BA/",
+title: "天才を殺す凡人",
+date: "2021-10-03T15:47:34+09:00",
+body: "天才を殺す凡人 [評価 var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '意外性','テンポ','面白さ' ], datasets: [{ data: [ 8,8,8 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 天才を殺す凡人 職場の人間関係に悩む、すべての人へ 基本情報 著者: 北野 唯我 感想 サラッと読めて、面白い！ 超おすすめの本です。 私は完全に天才を殺す側の人間でした。 というか、結構な人が天才を殺そうとしています。 タチが悪いのが、天才かどうかの判断は凡人には難しいこと。 この図の興味深い点が、凡人は秀才を天才だと勘違いしている点です。 数字で秀才に説明されると、凡人はそのアイデアに従わざるをえません。 「再現性」と「説明能力」が高い秀才を、凡人は憧れの存在として崇め、従ってしまいます。 しかし、世界は数字だけで判断できるわけではありません。 特に新しい分野への進出は、実績がないことへの挑戦なので、数字で表現することは困難です。 この歪をどうやって解決していくかがこの本に書かれている面白いポイントです。]"
 },
 {
 url: "https://review.choihack.com/post/",
 title: "",
-date: "2021-09-20T22:27:00+09:00",
+date: "2021-10-03T15:47:34+09:00",
 body: "[]"
 },
 {
 url: "https://review.choihack.com/post/book/",
 title: "",
-date: "2021-09-20T22:27:00+09:00",
+date: "2021-10-03T15:47:34+09:00",
 body: "[]"
+},
+{
+url: "https://review.choihack.com/post/book/%E5%B9%B8%E7%A6%8F%E3%81%AE%E7%A7%91%E5%AD%A6%E3%81%A8%E3%81%AE%E6%B1%BA%E5%88%A5/",
+title: "幸福の科学との決別",
+date: "2021-09-20T22:27:00+09:00",
+body: "幸福の科学との決別 [var ctx = document.getElementById(\"raderChart\"); var raderChart = new Chart(ctx, { type: 'radar', data: { labels: [ '意外性','エビデンス','面白さ' ], datasets: [{ data: [ 5,6,6 ], backgroundColor: 'RGBA(225,95,150, 0.5)', borderColor: 'RGBA(225,95,150, 1)', borderWidth: 1, pointBackgroundColor: 'RGB(46,106,177)' }] }, options: { legend: { display: false, }, scale:{ ticks:{ suggestedMin: 0, suggestedMax: 10, stepSize: 2 }, pointLabels: { fontSize: 16 } } } }); .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 幸福の科学との訣別 私の父は大川隆法だった (文春e-book) はじめに 私の周りには幸福の科学信者がいなかった。 なので、教義やどんな風習があるのかを知らなかった。 でも街なかで日々教会を見かけていた。 幸福の科学の教義や実体はなんだろう？ そんな興味心を満たすために読んでみた。 感想 幸福の科学とは まず面白かったのが、あくまで概要レベルだが幸福の科学の考え方知れた。 教祖が今なお生き続けている宗教の裏話を聞けるのは貴重だと思う。 この本はその興味心を十分満たしてくれると思う。 私が本を読んで理解した幸福の科学の考え方はこうだ。 大川隆法は教祖にして至高神エル・カンターレという存在である。 過去世（かこぜ）という前世が存在し、人物・悪魔・宇宙人・妖怪など様々なパターンがある。 過去世の霊の格で現世の格が決定される。 過去世を決定するのは大川隆法のみで、過去世は変わることもある。 人の例をイタコのように降ろす「霊言（れいげん）」ということができる。 仏陀、イエス・キリストの父、アッラーは大川隆法である。 要は、大川隆法が最高で唯一の存在で、その人の一声で全てが決定される世界観とういことだ。 どの宗教でもぶっ飛んだ神話は必要なので、よくある話だと思った。 違和感は 教祖が人の形で神として生きる矛盾 だ。 人の形で神を演じ続けるには無理がある。 宗教は、教祖の死で完成されるのかも知れない。 資金 当然資金源のメインは お布施 ということになる。 本を出版し、それを1人に何冊も買わせるということも行われているようだ。 それに お祓い的なもの も、値段はピンキリで存在する。 高額なものは1億程度になるとのこと。 ただ、幸福実現党を推し進めるせいで、かなり財源が苦しくなっているようだ。 さいごに 私が思い描いていた宗教の裏側がそのまま過ぎて、意外性は案外なかった。 「やっぱり」 という印象が強い。 終始著者の視点で話が書かれている。 ここに、幹部職員との対談なども入って入ればもっと面白いと感じたかも知れない。 だが、幸福の科学の概要が知れることは社会勉強として面白かった。 .amazon-content { overflow: hidden; } .amazon-content .title { font-size: 20px; font-weight: bold; } .amazon-content .description { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3; overflow: hidden; } 幸福の科学との訣別 私の父は大川隆法だった (文春e-book)]"
 },
 {
 url: "https://review.choihack.com/post/book/%E9%A0%AD%E3%81%8C%E3%81%84%E3%81%84%E4%BA%BA%E3%81%AE%E8%AA%AD%E6%9B%B8%E8%A1%93/",
